@@ -1,0 +1,30 @@
+.container-servicios{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card.text-center.mb-3{
+    width: 18rem;
+    height: 25rem;
+    margin: 10px;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-evenly;
+}
+
+.cont-cards img{
+    width: 286px;
+    height: 12rem;
+    object-fit: cover;
+}
+
+/* btn filtrar */
+.btn-group.btn-filtrar{
+    margin: 10px 70px ;
+}

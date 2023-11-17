@@ -1,0 +1,100 @@
+[
+   {
+    "id": 1,
+    "nombre": "Personalización Avanzada",
+    "img":"https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Ofrecemos sitios web altamente personalizados para adaptarse a las necesidades específicas de cada cliente.",
+    "categoria": "desarrollo-web"
+   },
+   {
+    "id": 2,
+    "nombre": "Aplicaciones Web Interactivas",
+    "img":"https://images.pexels.com/photos/38544/imac-apple-mockup-app-38544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Desarrollamos aplicaciones web interactivas y dinámicas para mejorar la experiencia del usuario.",
+    "categoria": "desarrollo-web"
+   },
+   {
+    "id": 3,
+    "nombre": "Optimización de Conversiones",
+    "img":"https://media.istockphoto.com/id/842811508/es/foto/sitio-web-desarrollo-de-p%C3%A1ginas-bosquejo-sobre-el-libro-de-matem%C3%A1ticas-de-aterrizaje.jpg?s=612x612&w=0&k=20&c=34O91egvfhIcPD-ZamOcsqEcqnv7c2kcjvlSGEQ6Mys=",
+    "descripcion": " Diseñamos landing pages centradas en la conversión para maximizar el número de visitantes que realizan la acción deseada.",
+    "categoria": "landing-pages"
+   },
+   {
+    "id": 4,
+    "nombre": "Seguimiento Analítico",
+    "img":"https://images.pexels.com/photos/7964426/pexels-photo-7964426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Implementamos herramientas analíticas para rastrear el rendimiento y hacer ajustes continuos.",
+    "categoria": "landing-pages"
+   },
+   {
+    "id": 5,
+    "nombre": "Integración de Pagos Seguros",
+    "img":"https://images.pexels.com/photos/3944405/pexels-photo-3944405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": " Ofrecemos soluciones de comercio electrónico con integración segura de pasarelas de pago.",
+    "categoria": "ecommerce"
+   },
+   {
+    "id": 6,
+    "nombre": "Gestión de Inventario",
+    "img":"https://images.pexels.com/photos/6612284/pexels-photo-6612284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Desarrollamos sistemas eficientes de gestión de inventario para tiendas en línea.",
+    "categoria": "ecommerce"
+   },
+   {
+    "id": 7,
+    "nombre": "Identidad Visual de Marca",
+    "img":"https://images.pexels.com/photos/4348403/pexels-photo-4348403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Ofrecemos crear paquetes completos",
+    "categoria": "diseño-grafico"
+   },
+   {
+    "id": 8,
+    "nombre": "Portadas de Redes Sociales Impactantes",
+    "img":"https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Diseñamos portadas atractivas y profesionales para perfiles de redes sociales que destaquen la marca.",
+    "categoria": "diseño-grafico"
+   },
+   {
+    "id": 9,
+    "nombre": "Portadas de Libros o Publicaciones",
+    "img":"https://images.pexels.com/photos/2228580/pexels-photo-2228580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Ofrecemos servicios de diseño para portadas de libros, revistas u otras publicaciones.",
+    "categoria": "diseño-grafico"
+   },
+   {
+    "id": 10,
+    "nombre": "Investigación de Palabras Clave",
+    "img":"https://media.istockphoto.com/id/1400050204/es/foto/sistema-de-gesti%C3%B3n-de-documentos-dms-gesti%C3%B3n-de-contenido-empresarial-ecm-para-la.jpg?s=612x612&w=0&k=20&c=jbWI5m956dimy3JUdeXLzksoANDf2BYWSaYma3pqDcY=",
+    "descripcion": "Realizamos análisis exhaustivos de palabras clave para mejorar la visibilidad en los motores de búsqueda.",
+    "categoria": "SEO"
+   },
+   {
+    "id": 11,
+    "nombre": "Optimización de Contenido",
+    "img":"https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": " Ofrecemos servicios de optimización de contenido para mejorar la clasificación en los motores de búsqueda.",
+    "categoria": "SEO"
+   },
+   {
+    "id": 12,
+    "nombre": "Campañas Personalizadas",
+    "img":"https://images.pexels.com/photos/267401/pexels-photo-267401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Crear campañas publicitarias específicas para el público objetivo de cada cliente.",
+    "categoria": "google-ads"
+   },
+   {
+    "id": 13,
+    "nombre": "Análisis de Rendimiento",
+    "img":"https://media.istockphoto.com/id/1311598658/es/foto/empresario-negocia-mercado-de-valores-en-l%C3%ADnea-en-pantalla-teblet-concepto-de-inversi%C3%B3n-digital.jpg?s=612x612&w=0&k=20&c=5sYDHhjv2qQfNnTHnytKNxe-qDlhYh8GyOt3tzEMpyU=",
+    "descripcion": "Proporcionar informes detallados sobre el rendimiento de las campañas y hacer ajustes según sea necesario.",
+    "categoria": "google-ads"
+   },
+   {
+    "id": 14,
+    "nombre": "Diseño corporativo",
+    "img":"https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "descripcion": "Fundamental para construir y mantener una identidad visual fuerte y coherente para tu empresa.",
+    "categoria": "diseño-grafico"
+   }
+]

@@ -1,0 +1,151 @@
+/* navbar */
+#navbarSupportedContent{
+    flex-grow: inherit;
+    margin: 0 10px;
+    font-size: 17px;
+}
+.container-fluid .navbar-brand{
+    margin: 0 20px;
+}
+
+#navbarSupportedContent ul li a {
+    color: #fff;
+    margin-right: 10px;
+}
+#navbarSupportedContent ul li a:hover {
+    color: #98c9d8;
+}
+
+/* portada */
+.container-fluid.portada{
+    background: rgb(93,196,215);
+    background: radial-gradient(circle, rgba(93,196,215,1) 0%, rgba(2,0,36,1) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    width: 15rem;
+    border-radius: 50%;
+    margin: 30px 0 20px ;
+    box-shadow: 3px 3px 10px #000;
+}
+
+.bienvenida{
+    color: #fff;
+    text-align: center;
+    width: 80%;
+    line-height: 2;
+    font-size: 20px;
+    font-weight: 400;
+    text-shadow: 3px 3px 5px #000;
+    margin: 10px 0 20px;
+}
+
+
+/* body */
+body{
+    background-color: rgba(10, 10, 10, 0.9);
+    max-width: 1550px;
+    margin: 0 auto;
+}
+/* nosotros */
+.container-nos{
+    background:linear-gradient(rgba(5, 7, 12, .85),rgba(5, 7, 12, .85)), url("../Assets/pexels-mikhail-nilov-7988114.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 80%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-nos h1{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    padding: 20px 0 10px;
+}
+
+.nosotros{
+    color: #fff;
+    width: 90%;
+    font-size: 18px;
+    font-weight: 200;
+    text-align: center;
+}
+
+.btn-servicios{
+    background-color: #98c9d8;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    padding: 2px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: #000000;
+    margin: 5px 0 30px;
+}
+
+.btn-servicios:hover{
+    background-color: #fff;
+    color: #98c9d8;
+}
+
+/* footer */
+footer{
+   width: 100%;
+   height: 130px;
+   display: flex;
+   color: #fff;
+   margin-top: 30px;
+   justify-content: space-around;
+   align-items: center;
+   border-top: 1px solid    #302d2d;
+   box-shadow: 5px 0 5px #353333;
+}
+
+.contenedores h4{
+    font-size: 20px;
+    margin: 30px 0 10px;
+}
+
+.contenedores a,p{
+    font-size: 12px;
+    margin: 8px 0;
+}
+
+.contenedores a{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* icon wpp */
+.btn-wpp svg{
+    width: 55px;
+    position: fixed;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px; 
+    right: 30px;
+    background-color: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+  }
+
+  .btn-wpp svg:hover{
+     text-decoration: none;
+     color: #0df053;
+     background-color: #fff;
+  }
