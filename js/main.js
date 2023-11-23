@@ -11,6 +11,7 @@ const obtenerProdcutos = async() =>{
 
 obtenerProdcutos();
 
+
 // mostrar productos
 const mostrarProductos = (productos) =>{
     contProductos.innerHTML = ``;
@@ -53,5 +54,6 @@ ItemsFiltro.forEach(item => {
 const filtrarProductosPorCategoria = (categoria) => {
     return productos.filter((producto) => producto.categoria === categoria);
 }
+
 
 
